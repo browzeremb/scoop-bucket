@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0-rc.1",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/browzeremb/browzer-cli/releases/download/v0.1.0-rc.1/browzer-cli_0.1.0-rc.1_windows_x86_64.zip",
+            "url": "https://github.com/browzeremb/browzer-cli/releases/download/v0.1.0/browzer-cli_0.1.0_windows_x86_64.zip",
             "bin": [
                 "browzer.exe"
             ],
-            "hash": "704b4e8755fb09d77bc3e8eae80bd75fa92a167514c57157fa71d2e65a9c153c"
+            "hash": "b21d9a2fa604eef422164626584585da275d24a11e726308c37b0ec5601f0a09"
         }
     },
     "homepage": "https://browzeremb.com",

@@ -1,12 +1,12 @@
 {
-    "version": "3.6.0",
+    "version": "4.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/browzeremb/browzer-cli/releases/download/v3.6.0/browzer-cli_3.6.0_windows_x86_64.zip",
+            "url": "https://github.com/browzeremb/browzer-cli/releases/download/v4.0.0/browzer-cli_4.0.0_windows_x86_64.zip",
             "bin": [
                 "browzer.exe"
             ],
-            "hash": "98162b1ecbe3d7d4cdedc8aeb3d4b78150c4a1266c5544c4cf2e1d8a26392bb1"
+            "hash": "419cf83b2e599948358eb4a6a5b6f3901941733278ef066b0a86e95c133453ba"
         }
     },
     "homepage": "https://browzeremb.com",
